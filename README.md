@@ -17,3 +17,15 @@ Parking Lot:
 
 
 4> https://www.codeproject.com/Articles/1137299/Object-Oriented-Analysis-and-Design
+
+
+
+5> http://www.math-cs.gordon.edu/courses/cs211/AddressBookExample/index.html
+
+
+6> https://www.itu.dk/people/slauesen/Papers/Oo-real.pdf
+
+
+7> https://stackoverflow.com/questions/1100819/how-do-you-design-object-oriented-projects
+
+8> https://www.linkedin.com/pulse/cracking-he-low-level-design-lld-interview-shashi-bhushan-kumar/
