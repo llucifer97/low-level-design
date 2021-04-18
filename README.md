@@ -29,3 +29,9 @@ Parking Lot:
 7> https://stackoverflow.com/questions/1100819/how-do-you-design-object-oriented-projects
 
 8> https://www.linkedin.com/pulse/cracking-he-low-level-design-lld-interview-shashi-bhushan-kumar/
+
+9> https://www.bogotobogo.com/DesignPatterns/introduction.php
+
+10> https://refactoring.guru/design-patterns
+
+11 > https://medium.com/must-know-computer-science/basic-design-patterns-in-c-39bd3d477a5c
