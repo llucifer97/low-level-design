@@ -37,3 +37,5 @@ Parking Lot:
 10> https://refactoring.guru/design-patterns
 
 11 > https://medium.com/must-know-computer-science/basic-design-patterns-in-c-39bd3d477a5c
+
+12 > https://github.com/prasadgujar/low-level-design-primer/blob/master/resources.md
