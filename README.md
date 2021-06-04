@@ -40,4 +40,6 @@ Parking Lot:
 
 12 > https://github.com/prasadgujar/low-level-design-primer/blob/master/resources.md
 
-13 > https://workat.tech/machine-coding/editorial/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w#:~:text=%2D%20The%20board%20will%20have%20100,random%20number%20on%20rolling%20it.&text=%2D%20After%20the%20dice%20roll%2C%20if,contains%20some%20snakes%20and%20ladders.
+13 > https://workat.tech/machine-coding
+
+13 > https://workat.tech/machine-coding/article/introduction-clean-code-software-design-principles-nwu4qqc63e09
