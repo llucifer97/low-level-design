@@ -6,7 +6,7 @@ This repository contains some programs for learning OOD using c++
 Parking Lot:
 
 
-1> https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z
+1> https://www.designgurus.io/course-play/grokking-the-object-oriented-design-interview/doc/design-a-parking-lot
 
 
 
